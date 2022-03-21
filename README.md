@@ -1,5 +1,5 @@
 # Car-Game
+#Use A and D to slide right or left
 
-Video Link  https://www.youtube.com/watch?v=X4LyyvGLABg&t=18s
-
-Subscribe our channel and like our videos https://www.youtube.com/c/Angulars
+#To run you can use NetBeans, Visual Studio Code, Dev C++, Brackets Code Editor, 
+Code::Blocks, Eclipse,  Atom, BlueFish Editor, Sublime Text, Qt Creator
